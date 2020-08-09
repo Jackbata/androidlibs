@@ -1,2 +1,11 @@
+include ':BatterToolslib'
+include ':BatterPopuWindowlib'
+include ':BatterDialoglib'
+include ':BatterRecycleViewlib'
+include ':BatterImagelib'
+include ':BatterWebviewlib'
+include ':BatterSkinChangelib'
+include ':BatterRouterlib'
+include ':BetterNetlib'
 include ':app'
 rootProject.name = "androidlibs"
