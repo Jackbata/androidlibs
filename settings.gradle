@@ -1,4 +1,5 @@
 include ':BatterToolslib'
+include ':BatterToolslib'
 include ':BatterPopuWindowlib'
 include ':BatterDialoglib'
 include ':BatterRecycleViewlib'
